@@ -1,0 +1,14 @@
+name: CaseDrop
+main: pureplugins.getwrecked.Main
+version: 1.0
+author: PurePlugins
+description: Allow players to get crates unlock them with keys for GG loot.
+commands:
+    casedrop:
+        description: Opens the player help menu.
+    casedrop reload:
+        description: Reloads the plugin.
+    casedrop keys:
+        description: Allow admins to spawn in crates.
+    casedrop case:
+        description: Allow admins to spawn in keys.
